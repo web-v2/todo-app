@@ -1,6 +1,6 @@
 <a href="https://vuejs.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="300" height="300" alt="VueJs" /></a>
 <a href="https://pinia.vuejs.org/" target="_blank"><img src="https://pinia.vuejs.org/logo.svg" width="300" height="300" alt="Pinia" /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://codersfree.nyc3.cdn.digitaloceanspaces.com/posts/7-pasos-para-instalar-tailwind-css-en-laravel-10.jpg" width="300" height="300" alt="Tailwindcss" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX9fZzRj7BuQAtuf6RSuqIjWEaai2Vl7sFq2Y6tKq5hA&s" width="300" height="300" alt="Tailwindcss" /></a>
 
 # todo-app
 
