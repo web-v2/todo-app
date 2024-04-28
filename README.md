@@ -1,4 +1,5 @@
-<a href="https://vuejs.org" target="_blank"><img src="https://img-b.udemycdn.com/course/750x422/3866792_861b_15.jpg" width="300" height="300" alt="VueJs" /></a>
+<a href="https://vuejs.org" target="_blank"><img src="https://img-b.udemycdn.com/course/750x422/3866792_861b_15.jpg" height="300" alt="VueJs" /></a>
+
 # todo-app
 
 This template should help get you started developing with Vue 3 in Vite.
