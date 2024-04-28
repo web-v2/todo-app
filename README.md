@@ -91,4 +91,4 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 
 ---
 
-⌨️ con ❤️ por [SamirV2]('git remote add origin https://github.com/web-v2/name-proyect.git') 😊
+⌨️ con ❤️ por [SamirV2]('git remote add origin https://github.com/web-v2/') 😊
