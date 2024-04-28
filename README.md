@@ -1,6 +1,8 @@
-<center>
+
 <a href="https://vuejs.org" target="_blank"><img src="https://img-b.udemycdn.com/course/750x422/3866792_861b_15.jpg" height="300" alt="VueJs" /></a>
-</center>
+
+![image](https://github.com/web-v2/todo-app/assets/24524872/7eaf2811-2a02-47d6-8787-dcdf87fbc29b)
+
 
 # TO DO App
 
