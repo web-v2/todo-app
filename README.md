@@ -1,7 +1,4 @@
-<a href="https://vuejs.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="300" height="300" alt="VueJs" /></a>
-<a href="https://pinia.vuejs.org/" target="_blank"><img src="https://pinia.vuejs.org/logo.svg" width="300" height="300" alt="Pinia" /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX9fZzRj7BuQAtuf6RSuqIjWEaai2Vl7sFq2Y6tKq5hA&s" width="200" height="100" alt="Tailwindcss" /></a>
-
+<a href="https://vuejs.org" target="_blank"><img src="https://img-b.udemycdn.com/course/750x422/3866792_861b_15.jpg" width="300" height="300" alt="VueJs" /></a>
 # todo-app
 
 This template should help get you started developing with Vue 3 in Vite.
